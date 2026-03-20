@@ -1,6 +1,6 @@
 # Security Scanner
 
-> Scan AI agent skills for security vulnerabilities, dangerous code patterns, and undeclared permissions. Three-layer analysis: dependency CVE scanning via OSV.dev, static code analysis, and permission auditing. Returns structured JSON risk report. Use when the user asks to scan a skill for security issues, check for vulnerabilities, audit permissions, or assess skill safety.
+> Scan AI agent skills for security vulnerabilities, dangerous code patterns, and undeclared permissions. Three-layer analysis: dependency CVE scanning, static code analysis, and permission auditing. Returns structured JSON risk report. Use when the user asks to scan a skill for security issues, check for vulnerabilities, audit permissions, or assess skill safety.
 
 [![License: MIT-0](https://img.shields.io/badge/License-MIT--0-blue.svg)](LICENSE)
 [![Claw0x](https://img.shields.io/badge/Powered%20by-Claw0x-orange)](https://claw0x.com)
