@@ -1,4 +1,4 @@
-# claw0x-security-scanner
+# Security Scanner
 
 > Scan AI agent skills for security vulnerabilities, dangerous code patterns, and undeclared permissions. Three-layer analysis: dependency CVE scanning via OSV.dev, static code analysis, and permission auditing. Returns structured JSON risk report. Use when the user asks to scan a skill for security issues, check for vulnerabilities, audit permissions, or assess skill safety.
 
@@ -19,7 +19,7 @@ Built for OpenClaw, compatible with Claude, GPT-4, and other agent frameworks.
 Simply tell your agent:
 
 ```
-Install the "claw0x-security-scanner" skill from Claw0x
+Install the "Security Scanner" skill from Claw0x
 ```
 
 Or use this connection prompt:
